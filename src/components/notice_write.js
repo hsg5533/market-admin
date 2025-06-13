@@ -112,7 +112,7 @@ class notice_write extends React.Component {
                         <input
                           type="file"
                           id="file1"
-                          name="imgUpload"
+                          name="img"
                           accept="image/*"
                           multiple
                           onChange={(event) => {
@@ -136,7 +136,7 @@ class notice_write extends React.Component {
                         <input
                           type="file"
                           id="file2"
-                          name="imgUpload"
+                          name="img"
                           accept="image/*"
                           multiple
                           onChange={(event) => {

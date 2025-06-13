@@ -72,7 +72,7 @@ class cont_cg_add extends React.Component {
                             <input
                               type="file"
                               id="file"
-                              name="imgUpload"
+                              name="img"
                               accept="image/*"
                               multiple
                               onChange={(event) => {
